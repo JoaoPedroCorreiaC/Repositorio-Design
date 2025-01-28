@@ -11,4 +11,15 @@
 
 > A proposta deste portfólio é mostrar para aqueles que desejam saber, como anda o meu desenvolvimento na área de Design, fique à vontade para usar-los como base para o seu próprio projeto, irei inserir imagens dos meus projetos mais recentes e ir atualizando com o tempo.
 
-<img rsc="C:\Users\jpmam\OneDrive\Desktop\Programação\GitHub\Repositorio-Design\fotos\Projeto Leguelé.png" alt="Projeto Leguelé Beer">
+<p align="center">
+<h3 align="center">Projeto Camisa Turma 2024.2 Direito UFAL</h3>
+  <a href="">
+    <img src="/fotos/Polo - Preta.png" alt="Projeto Camisa Turma 2024.2 Direito UFAL" width="300" height="300">
+  </a>
+</p>
+<p align="center">
+<h3 align="center">Projeto Leguelé Beer</h3>
+  <a href="">
+    <img src="/fotos/Projeto Leguelé.png" alt="Projeto Leguelé Beer" width="300" height="300">
+  </a>
+</p>
