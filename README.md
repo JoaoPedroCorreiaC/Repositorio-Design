@@ -14,7 +14,7 @@
 <p align="center">
 <h3 align="center">Projeto Camisa Turma 2024.2 Direito UFAL</h3>
   <a href="">
-    <img src="/fotos/Polo - Preta.png" alt="Projeto Camisa Turma 2024.2 Direito UFAL" width="300" height="300">
+    <img src="/fotos/Polo - Preta.png" alt="Projeto Camisa Turma 2024.2 Direito UFAL" width="1279" height="867">
   </a>
 </p>
 <p align="center">
